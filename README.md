@@ -9,7 +9,7 @@ Team number: **54**
 
 | Member | GitHub username | Lead role | Contribution |
 | --- | --- | --- | --- |
-| Aryan Yadav | AryanIITrpr1704 | Documentation | [Describe completed work] |
+| Aryan Yadav | AryanIITrpr1704 | Documentation | Added the idea of volume feature and created this ReadMe file and requirements |
 | Ayush Kumar |  | Setup and execution | [Describe completed work] |
 | Harshit Verma | [Username] | Presentation | [Describe completed work] |
 | Lokesh Chabdal | [Username] | Video | [Describe completed work] |
