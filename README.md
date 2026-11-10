@@ -86,4 +86,4 @@ The evaluation covers one split of a small dataset. The volume experiment is a c
 
 ## AI-use disclosure
 
-ChatGPT reviewed the notebook, suggested the volume feature, corrected the RMSE table label, and helped draft this README. The updated notebook was rerun against the repo's `Fish.csv` to check the results above. Add any other AI assistance your team used and record the checks each member actually performed.
+ChatGPT reviewed the notebook, suggested the volume feature, corrected the RMSE table label, and helped draft this README. The updated notebook was rerun against the repo's `Fish.csv` to check the results above.
