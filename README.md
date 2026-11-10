@@ -82,7 +82,7 @@ The evaluation covers one split of a small dataset. The volume experiment is a c
 ## Presentation and demo
 
 - **Five-slide presentation** [Add slide link]
-- **Demo video, at most five minutes** [Add video link]
+- **Demo video, at most five minutes** Link 1 
 
 ## AI-use disclosure
 
