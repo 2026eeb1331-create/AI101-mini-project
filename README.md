@@ -1,5 +1,5 @@
-# AI101-mini-project
-# Fish Weight Prediction
+# AI101-mini-project.
+# Fish Weight Prediction.
 
 An IIT Ropar AI101 mini-project that predicts a fish's weight in grams from its species and physical measurements using linear regression.
 
