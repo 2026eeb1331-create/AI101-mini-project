@@ -10,7 +10,7 @@ Team number: **54**
 | Member | GitHub username | Lead role | Contribution |
 | --- | --- | --- | --- |
 | Aryan Yadav | AryanIITrpr1704 | Documentation | Added the idea of volume feature and created this ReadMe file and requirements |
-| Ayush Kumar |  | 2026eeb1331-create | Created the repository, ran code multiple times and coded the data preprocessing, training plots, and requirements |
+| Ayush Kumar | 2026eeb1331-create | Execution | Created the repository, ran code multiple times and coded the data preprocessing, training plots, and requirements |
 | Harshit Verma | hv-iitrpr | Presentation | Creating the visual structure and mechanism of the project via slide decks |
 | Lokesh Chabdal | [Username] | Video | [Describe completed work] |
 
