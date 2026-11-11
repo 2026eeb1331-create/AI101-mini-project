@@ -36,24 +36,7 @@ The notebook reads 159 fish records across seven species. It checks for missing 
 
 ## Setup and run(2 methods)
 
-*Method 1*:
-Setup and Run Video(paste the link in the browser):
-```
-https://github.com/user-attachments/assets/b3100227-0ea1-4e50-ad6f-4e5c974872d5
-
-```
-The notebook was verified with Python 3.12.14 and the pinned packages in `requirements.txt`. The original team notebook used Python 3.14.6.
-1. Open our AI101-mini-project github repository
-2. Click on code (green button) and go on local, and then download zip.
-3. Extract the folder
-4. Open VS code and open our project folder in it and view the code
-5. Install the required versions as mentioned in requirements.txt
-6. Click on kernel and then click on python environments and select the python environment.
-7. For this , the team has used python 3.14.6, so we would encourage the same
-8. IMPORTANT: keep 'Fish.csv' beside the ipynb file so that the relative path resolves
-
-
-*Method 2* :
+*Method 1* :
 
 Setup video for method 2(paste the link in the browser):
 ```
@@ -73,6 +56,23 @@ code AI101mini.ipynb
 ```
 5. Now select kernel from the top right of the interface
 6. Now click on run all
+
+   
+*Method 2*:
+Setup and Run Video(paste the link in the browser):
+```
+https://github.com/user-attachments/assets/b3100227-0ea1-4e50-ad6f-4e5c974872d5
+
+```
+The notebook was verified with Python 3.12.14 and the pinned packages in `requirements.txt`. The original team notebook used Python 3.14.6.
+1. Open our AI101-mini-project github repository
+2. Click on code (green button) and go on local, and then download zip.
+3. Extract the folder
+4. Open VS code and open our project folder in it and view the code
+5. Install the required versions as mentioned in requirements.txt
+6. Click on kernel and then click on python environments and select the python environment.
+7. For this , the team has used python 3.14.6, so we would encourage the same
+8. IMPORTANT: keep 'Fish.csv' beside the ipynb file so that the relative path resolves
 
 ## Method
 
