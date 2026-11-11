@@ -37,7 +37,7 @@ The notebook reads 159 fish records across seven species. It checks for missing 
 ## Setup and run(2 methods)
 
 *Method 1*:
-Setup and Run Video:
+Setup and Run Video(paste the link in the browser):
 ```
 https://github.com/user-attachments/assets/b3100227-0ea1-4e50-ad6f-4e5c974872d5
 
@@ -54,9 +54,16 @@ The notebook was verified with Python 3.12.14 and the pinned packages in `requir
 
 
 *Method 2* :
+
+Setup video for method 2(paste the link in the browser):
+```
+https://github.com/user-attachments/assets/f146950e-31f7-441c-8858-34baeaa2bbc5
+```
+
 1. Create a folder with any name you want
 2. Open that folder in the VS code
-3. Now in the terminal paste the below given code
+3. IMPORTANT: now you need to trust your folder ,by clicking on 'manage' and then clicking on trust
+4. Now in the terminal paste the below given code
 ```
 git clone https://github.com/2026eeb1331-create/AI101-mini-project
 cd AI101-mini-project
@@ -64,8 +71,8 @@ pip install -r requirements.txt
 code AI101mini.ipynb
 
 ```
-4. Now select kernel from the top right of the interface
-5. Now click on run all
+5. Now select kernel from the top right of the interface
+6. Now click on run all
 
 ## Method
 
