@@ -12,7 +12,7 @@ Team number: **54**
 | Aryan Yadav | AryanIITrpr1704 | Documentation | Added the idea of volume feature and created this ReadMe file and requirements |
 | Ayush Kumar | 2026eeb1331-create | Execution | Created the repository, ran code multiple times and coded the data preprocessing, training plots, and requirements |
 | Harshit Verma | hv-iitrpr | Presentation | Creating the visual structure and mechanism of the project via slide decks |
-| Lokesh Chabdal | [Username] | Video | [Describe completed work] |
+| Lokesh Chabdal | Lokesh2208 | Video | Constructed the video to briefly explain the working of project |
 
 ## Project files
 
