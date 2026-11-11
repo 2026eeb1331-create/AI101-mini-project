@@ -34,8 +34,9 @@ The notebook reads 159 fish records across seven species. It checks for missing 
 | `Height`, `Width` | Body measurements in centimetres |
 | `Weight` | Prediction target in grams |
 
-## Setup and run
+## Setup and run(2 methods)
 
+*Method 1*:
 Setup and Run Video:
 ```
 https://github.com/user-attachments/assets/b3100227-0ea1-4e50-ad6f-4e5c974872d5
@@ -51,6 +52,20 @@ The notebook was verified with Python 3.12.14 and the pinned packages in `requir
 7. For this , the team has used python 3.14.6, so we would encourage the same
 8. IMPORTANT: keep 'Fish.csv' beside the ipynb file so that the relative path resolves
 
+
+*Method 2* :
+1. Create a folder with any name you want
+2. Open that folder in the VS code
+3. Now in the terminal paste the below given code
+```
+git clone https://github.com/2026eeb1331-create/AI101-mini-project
+cd AI101-mini-project
+pip install -r requirements.txt
+code AI101mini.ipynb
+
+```
+4. Now select kernel from the top right of the interface
+5. Now click on run all
 
 ## Method
 
