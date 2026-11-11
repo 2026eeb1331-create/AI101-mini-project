@@ -21,7 +21,7 @@ Team number: **54**
 | [AI101mini.ipynb](AI101mini.ipynb) | Data checks, model training, plots, and test results |
 | [Fish.csv](Fish.csv) | Fish Market dataset included in the repo |
 | [requirements.txt](requirements.txt) | Pinned Python packages for the notebook |
-| [results/actual_vs_predicted.png](results/actual_vs_predicted.png) | Plot produced by running the notebook |
+
 
 ## Dataset
 
@@ -36,22 +36,21 @@ The notebook reads 159 fish records across seven species. It checks for missing 
 
 ## Setup and run
 
-The steps below use PowerShell on Windows. The notebook was verified with Python 3.12.14 and the pinned packages in `requirements.txt`. The original team notebook used Python 3.14.6.
-
-```powershell
-git clone https://github.com/2026eeb1331-create/AI101-mini-project.git
-cd AI101-mini-project
-python --version
-python -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+Setup and Run Video:
 ```
+https://github.com/user-attachments/assets/b3100227-0ea1-4e50-ad6f-4e5c974872d5
 
-1. Open the `AI101-mini-project` folder in VS Code. Install the **Python** and **Jupyter** extensions if needed.
-2. Open `AI101mini.ipynb`. Choose **Select Kernel → Python Environments** and select the interpreter from `.venv`.
-3. Choose **Run All**. Keep `Fish.csv` beside the notebook so its relative path resolves.
-4. Scroll to the final code cell to see the three-model comparison.
+```
+The notebook was verified with Python 3.12.14 and the pinned packages in `requirements.txt`. The original team notebook used Python 3.14.6.
+1. Open our AI101-mini-project github repository
+2. Click on code (green button) and go on local, and then download zip.
+3. Extract the folder
+4. Open VS code and open our project folder in it and view the code
+5. Install the required versions as mentioned in requirements.txt
+6. Click on kernel and then click on python environments and select the python environment.
+7. For this , the team has used python 3.14.6, so we would encourage the same
+8. IMPORTANT: keep 'Fish.csv' beside the ipynb file so that the relative path resolves
 
-On macOS or Linux, use `.venv/bin/python -m pip install -r requirements.txt` after creating the virtual environment.
 
 ## Method
 
@@ -71,7 +70,6 @@ On macOS or Linux, use `.venv/bin/python -m pip install -r requirements.txt` aft
 
 MAE is the average absolute error in grams. RMSE gives larger errors more influence. The unscaled and scaled regressions agree to rounding precision. Ordinary least squares can adjust its coefficients and intercept when the inputs are standardized. On this split, adding the body-size feature reduces test MAE by about 21.57 g.
 
-![Actual versus predicted weight for the original scaled regression on the held-out fish](results/actual_vs_predicted.png)
 
 The plot comes from running the notebook. Add a screenshot of your own **Run All** output showing the final comparison table before submitting.
 
