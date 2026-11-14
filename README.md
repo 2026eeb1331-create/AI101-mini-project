@@ -92,6 +92,7 @@ The notebook was verified with Python 3.12.14 and the pinned packages in `requir
 
 MAE is the average absolute error in grams. RMSE gives larger errors more influence. The unscaled and scaled regressions agree to rounding precision. Ordinary least squares can adjust its coefficients and intercept when the inputs are standardized. On this split, adding the body-size feature reduces test MAE by about 21.57 g.
 
+The addition of volume proxy helped the model understand more about the dataset and got more idea of the overall fish size, this helped in the reduction of MAE, RMSE, negative weight prediction and we see a rise in the model's r2 score.
 
 The plot comes from running the notebook. Add a screenshot of your own **Run All** output showing the final comparison table before submitting.
 
