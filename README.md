@@ -102,7 +102,7 @@ The evaluation covers one split of a small dataset. The volume experiment is a c
 
 ## Presentation and demo
 
-- **Five-slide presentation** [Add ppt link here]  
+- **Five-slide presentation** in this GithHub Repository  
 - **Demo video, at most five minutes** Link 1 attach video link here
 
 ## AI-use disclosure
