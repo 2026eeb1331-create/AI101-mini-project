@@ -5,7 +5,7 @@ An IIT Ropar AI101 mini-project that predicts a fish's weight in grams from its 
 
 ## Team
 
-Team number: **54**
+Team number: ** 54 **
 
 | Member | GitHub username | Lead role | Contribution |
 | --- | --- | --- | --- |
