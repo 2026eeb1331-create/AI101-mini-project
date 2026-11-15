@@ -36,6 +36,11 @@ The notebook reads 159 fish records across seven species. It checks for missing 
 
 ## Setup and run(2 methods)
 
+**IMPORTANT** : it must be ensure that git is already install in the system if not installed, execute the below given code in windows terminal , and then restart the VS code
+```
+winget install --id Git.Git -e --source winget
+```
+
 *Method 1* :
 
 Setup video for method 2(paste the link in the browser):
