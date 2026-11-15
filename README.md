@@ -18,7 +18,7 @@ Team number: ** 54 **
 
 | File | Purpose |
 | --- | --- |
-| [AI101mini.ipynb](AI101mini.ipynb) | Data checks, model training, plots, and test results |
+| [AI101mini.ipynb](AI101mini.ipynb) | Data checks , model training , plots , and test results |
 | [Fish.csv](Fish.csv) | Fish Market dataset included in the repo |
 | [requirements.txt](requirements.txt) | Pinned Python packages for the notebook |
 
